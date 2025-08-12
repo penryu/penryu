@@ -1,16 +1,13 @@
-### <a rel="me nofollow" href="https://mastodon.social/@penryu">Hi there 👋</a>
+# So long, and thanks for all the PRs!
 
-<!--
-**penryu/penryu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Not much to see here, folks! I've left GitHub for less generative pastures!
 
-Here are some ideas to get you started:
+If you're looking to see which projects I've contributed to recently, you can still find them
+[here][gh_repos]. For everything else, you're probably looking for [my personal collection of
+repos][gitryu]. You might find some stuff [GitLab][gitlab] or [sourcehut][srht], but I make no
+promises!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[gh_repos]: https://github.com/penryu?tab=repositories
+[gitlab]: https://gitlab.com/penryu
+[gitryu]: https://git.penryu.dev/penryu
+[srht]: https://sr.ht/~penryu/
